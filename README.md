@@ -1,4 +1,5 @@
 # linux-cheat-sheets
 
-[vim-cheat-sheet(中文)](./vim-cheat-sheet-CN.md)
+[vim cheatsheet(中文)](./vim-cheat-sheet-CN.md)
 
+[sed cheatsheet(中文)](./sed-cheat-sheet-CN.md)
